@@ -1,0 +1,10 @@
+https://codepen.io/jakejarvis/pen/pBZWZw <- wave hand emoji
+https://webflow.com/made-in-webflow/website/Poulos-Collective
+
+website routes
+/home
+
+everything is shown in the overview
+(overview acts as the navbar itself)
+
+clicking each section
